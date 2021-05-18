@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 * Projet 1 : _[Etude de santé publique](https://github.com/anissalaza/Etude-de-sante-publique.git)_
 
-Le but de ce projet était d'acquérir les compétences suivantes :  
+_Le but de ce projet était d'acquérir les compétences suivantes_ :  
 Appliquer l'algèbre relationnelle en Python  
 Utiliser une documentation technique. 
 Utiliser les librairies spécifiques à la Data Science  
@@ -24,14 +24,14 @@ Maîtriser les bases de Python
 
 * Projet 2 : _[Analyse des ventes d'une entreprise](https://github.com/anissalaza/Analyse-des-ventes.git)_
 
-Le but de ce projet était de mettre en lumière plusieurs compétences :  
+_Le but de ce projet était de mettre en lumière plusieurs compétences_ :  
 La connaissance des tests statistiques fondamentaux (ANOVA, Chi-2 de conformité, coefficient de corrélation, régression linéaire)  
 Le nettoyage d'un jeu de données  
 La description d'un jeu de données à l'aide de statistique descriptive (indices de tendances centrales, indices de dispersion, analyse de concentration, analyse de la symétrie d'une distribution).  
 
 * Projet 3 : _[Production d'une étude de marché](https://github.com/anissalaza/Etude-de-marche.git)_
 
-Les compétences acquises lors de ce projet sont :  
+_Les compétences acquises lors de ce projet sont_ :  
 La construction et la lecture d'un dendrogramme  
 Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)  
 L'interprétation d'une analyse en composantes principales.  
