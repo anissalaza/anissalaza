@@ -41,18 +41,22 @@ Il s'agissait ici d'effectuer **une étude de marché pour une entreprise agro-a
 
 **▻ Projets à réaliser dans le cadre de la formation Data Analyst (OpenClassRooms)**
 
-* Projet 4 : _Détecter de faux billets_
-Il s'agit ici de **créer un algorithme de détection** de faux billets de banque. Les compétences acquises lors de ce projet sont : 
-∙
+* Projet 4 : _Détecter de faux billets_  
 
-* Projet 5 : _Effectuez une prédiction de revenus_
+Il s'agit ici de **créer un algorithme de détection** de faux billets de banque. Les compétences acquises lors de ce projet sont :  
+∙ La construction d'une Analyse en Composantes Principales (ACP)  
+∙ La modélisation à l'aide d'une régression logistique  
+∙ L'interprétation d'une Analyse en Composantes Principales (ACP)  
+∙ L'utilisation d'un algorithme de clustering de type KMeans  
+
+* Projet 5 : _Effectuer une prédiction de revenus_
 
 Il s'agit ici de **créer un modèle permettant de déterminer le revenu potentiel d'une personne** dans le but de **cibler de nouveaux clients potentiels**. Les compétences acquises lors de ce projet sont :  
 ∙ Maîtriser les bases de la statistique inférentielle  
 ∙ Maîtriser les bases des probabilités  
 ∙ Modéliser des données  
 
-* Projet 6 : _Prédisez la consommation en électricité_
+* Projet 6 : _Prédire la consommation en électricité_
 
 Il s'agit ici de **prévoir les capacités de production** d'électricité en fonction de la demande fluctuante des utilisateurs. Les compétences acquises lors de ce projet sont_ :  
 ∙ Maîtriser les méthodes de lissage et de Holt-Winters  
@@ -62,4 +66,4 @@ Il s'agit ici de **prévoir les capacités de production** d'électricité en fo
 
 ----------------------------------------------
 
-* Projets personnels
+▻ Projets personnels
