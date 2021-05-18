@@ -15,23 +15,51 @@ You can click the Preview link to take a look at your changes.
 
 * Projet 1 : _[Etude de santé publique](https://github.com/anissalaza/Etude-de-sante-publique.git)_
 
-_Le but de ce projet était d'acquérir les compétences suivantes_ :  
-Appliquer l'algèbre relationnelle en Python  
-Utiliser une documentation technique. 
-Utiliser les librairies spécifiques à la Data Science  
-Effectuer des requêtes complexes en SQL  
-Maîtriser les bases de Python  
+Il s'agissait ici d'effectuer **une étude sur la sous-nutrition dans le monde** et ainsi, **en connaître les causes**. Le but de ce projet était d'acquérir les compétences suivantes :  
+∙ Appliquer l'algèbre relationnelle en Python  
+∙ Utiliser une documentation technique  
+∙ Utiliser les librairies spécifiques à la Data Science  
+∙ Effectuer des requêtes complexes en SQL  
+∙ Maîtriser les bases de Python  
 
 * Projet 2 : _[Analyse des ventes d'une entreprise](https://github.com/anissalaza/Analyse-des-ventes.git)_
 
-_Le but de ce projet était de mettre en lumière plusieurs compétences_ :  
-La connaissance des tests statistiques fondamentaux (ANOVA, Chi-2 de conformité, coefficient de corrélation, régression linéaire)  
-Le nettoyage d'un jeu de données  
-La description d'un jeu de données à l'aide de statistique descriptive (indices de tendances centrales, indices de dispersion, analyse de concentration, analyse de la symétrie d'une distribution).  
+Il s'agissait ici d'effectuer **une analyse des ventes d'une boutique en ligne** (librairie) fictive. Le but de ce projet était de mettre en lumière plusieurs compétences :  
+∙ La connaissance des tests statistiques fondamentaux (ANOVA, Chi-2 de conformité, coefficient de corrélation, régression linéaire)  
+∙ Le nettoyage d'un jeu de données  
+∙ La description d'un jeu de données à l'aide de statistique descriptive (indices de tendances centrales, indices de dispersion, analyse de concentration, analyse de la symétrie d'une distribution).  
 
 * Projet 3 : _[Production d'une étude de marché](https://github.com/anissalaza/Etude-de-marche.git)_
 
-_Les compétences acquises lors de ce projet sont_ :  
-La construction et la lecture d'un dendrogramme  
-Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)  
-L'interprétation d'une analyse en composantes principales.  
+Il s'agissait ici d'effectuer **une étude de marché pour une entreprise agro-alimentaire** spécialisée dans la vente et production de poulets, dans le but d'**une implantation à l'international**. Les compétences acquises lors de ce projet sont :  
+∙ La construction et la lecture d'un dendrogramme  
+∙ Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)  
+∙ L'interprétation d'une analyse en composantes principales.  
+
+---------------------------------------------
+## Projets en cours de réalisation
+
+**▻ Projets à réaliser dans le cadre de la formation Data Analyst (OpenClassRooms)**
+
+* Projet 4 : _Détecter de faux billets_
+Il s'agit ici de **créer un algorithme de détection** de faux billets de banque. Les compétences acquises lors de ce projet sont : 
+∙
+
+* Projet 5 : _Effectuez une prédiction de revenus_
+
+Il s'agit ici de **créer un modèle permettant de déterminer le revenu potentiel d'une personne** dans le but de **cibler de nouveaux clients potentiels**. Les compétences acquises lors de ce projet sont :  
+∙ Maîtriser les bases de la statistique inférentielle  
+∙ Maîtriser les bases des probabilités  
+∙ Modéliser des données  
+
+* Projet 6 : _Prédisez la consommation en électricité_
+
+Il s'agit ici de **prévoir les capacités de production** d'électricité en fonction de la demande fluctuante des utilisateurs. Les compétences acquises lors de ce projet sont_ :  
+∙ Maîtriser les méthodes de lissage et de Holt-Winters  
+∙ Maîtriser les notions de composantes et de modèles de décomposition  
+∙ Maîtriser les modèles ARMA  
+∙ Représenter graphiquement une série temporelle
+
+----------------------------------------------
+
+* Projets personnels
