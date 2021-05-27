@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 -------------------------------------------------
 ## Projets réalisés
 
-**▻ Projets réalisés dans le cadre de la formation Data Analyst (OpenClassRooms)**
+**▻ Projets réalisés dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
 
 * Projet 1 : _[Etude de santé publique](https://github.com/anissalaza/Etude-de-sante-publique.git)_
 
