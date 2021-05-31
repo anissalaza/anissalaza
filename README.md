@@ -39,7 +39,7 @@ Il s'agissait ici d'effectuer **une étude de marché pour une entreprise agro-a
 ---------------------------------------------
 ## Projets en cours de réalisation
 
-**▻ Projets à réaliser dans le cadre de la formation Data Analyst (OpenClassRooms)**
+**▻ Projets à réaliser dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
 
 * Projet 4 : _Détecter de faux billets_  
 
