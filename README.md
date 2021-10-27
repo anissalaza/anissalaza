@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 **▻ Projets en cours de réalisation dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
 
-* _Prédire la certification des singles et/ou albums_ - **en cours** :
+* _[Prédire la certification des singles et/ou albums](https://github.com/anissalaza/Prediction-certification.git)_ - **en cours** :
 
 Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de différentes variables puis, de **créer un modèle permettant de prédire la certification (or, platine ou diamant) de singles et/ou albums**. Les étapes sont les suivantes :  
 
@@ -79,7 +79,3 @@ Il s'agit ici de **prévoir les capacités de production** d'électricité en fo
 ∙ Maîtriser les notions de composantes et de modèles de décomposition  
 ∙ Maîtriser les modèles ARMA  
 ∙ Représenter graphiquement une série temporelle
-
-----------------------------------------------
-
-▻ Projets personnels
