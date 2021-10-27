@@ -44,7 +44,7 @@ Il s'agit ici de **créer un algorithme de détection** de faux billets de banqu
 ∙ L'interprétation d'une Analyse en Composantes Principales (ACP)  
 ∙ L'utilisation d'un algorithme de clustering de type KMeans  
 
-* Projet 5 : _Effectuer une prédiction de revenus_
+* Projet 5 : _[Effectuer une prédiction de revenus](https://github.com/anissalaza/Prediction-de-revenus.git)_
 
 Il s'agit ici de **créer un modèle permettant de déterminer le revenu potentiel d'une personne** dans le but de **cibler de nouveaux clients potentiels**. Les compétences acquises lors de ce projet sont :  
 ∙ Maîtriser les bases de la statistique inférentielle  
