@@ -20,11 +20,13 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ∙ Constitution d'un jeu de données _(plus de 3000 données et 30 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
 
-∙ Analyse complète - **en cours** : statistiques descriptives et classification  
+∙ Data cleaning et Exploratory data analysis - **en cours** : analyse complète (statistiques descriptives, classification etc.)    
 
 ∙ Visualisation - **en cours** : visualisation graphique grâce aux librairies Python (Matplotlib, Seaborn et Plotly) + l'outil de visualisation Tableau  
 
 ∙ Modélisation - **en cours**. 
+
+∙ Rédaction d'un rapport et soutenance devant le jury  
 
 -------------------------------------------------
 
