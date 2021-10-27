@@ -2,7 +2,7 @@
 - 👀 data-driven marketer
 - 📫 How to reach me: www.linkedin.com/in/anissa-mansour
 - 🌱 I’m currently learning data analytics _(Python & SQL)_
-- 💞️ I’m looking to collaborate on digital marketing and data analytics
+- 💞️ I’m looking to collaborate on data analytics and digital marketing 
 
 <!---
 anissalaza/anissalaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
