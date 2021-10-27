@@ -9,6 +9,25 @@ anissalaza/anissalaza is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 -------------------------------------------------
+
+## Projets personnels
+
+**▻ Projets en cours de réalisation dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
+
+* _Prédire la certification des singles et/ou albums_ - **en cours** :
+
+Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de différentes variables puis, de **créer un modèle permettant de prédire la certification (or, platine ou diamant) de singles et/ou albums**. Les étapes sont les suivantes :  
+
+∙ Constitution d'un jeu de données _(plus de 3000 données et 30 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
+
+∙ Analyse complète - **en cours** : statistiques descriptives et classification  
+
+∙ Visualisation - **en cours** : visualisation graphique grâce aux librairies Python (Matplotlib, Seaborn et Plotly) + l'outil de visualisation Tableau  
+
+∙ Modélisation - **en cours**. 
+
+-------------------------------------------------
+
 ## Projets réalisés
 
 **▻ Projets réalisés dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
