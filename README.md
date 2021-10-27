@@ -36,12 +36,7 @@ Il s'agissait ici d'effectuer **une étude de marché pour une entreprise agro-a
 ∙ Le test de l'adéquation à une loi par l'intermédiaire de tests statistiques (Kolmogorov-Smirnov, Shapiro-Wilk, etc.)  
 ∙ L'interprétation d'une analyse en composantes principales.  
 
----------------------------------------------
-## Projets en cours de réalisation
-
-**▻ Projets à réaliser dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
-
-* Projet 4 : _Détecter de faux billets_  
+* Projet 4 : _[Détection de faux billets](https://github.com/anissalaza/Detection-faux-billets.git)_
 
 Il s'agit ici de **créer un algorithme de détection** de faux billets de banque. Les compétences acquises lors de ce projet sont :  
 ∙ La construction d'une Analyse en Composantes Principales (ACP)  
