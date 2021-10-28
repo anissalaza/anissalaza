@@ -28,7 +28,7 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ∙ Modélisation - **en cours** : création du modèle de prédiction des certifications 
 
-∙ Rédaction d'un rapport et soutenance devant le jury  
+∙ Rédaction d'un rapport et soutenance devant le jury - **étape finale**  
 
 -------------------------------------------------
 
