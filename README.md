@@ -20,11 +20,13 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ∙ [Constitution d'un jeu de données](https://github.com/anissalaza/Prediction-certification/blob/9cb6facffef0e67f72659c7ee461291fa5660141/Preprocessing.ipynb) _(plus de 3000 données et 30 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
 
-∙ Data cleaning et Exploratory data analysis - **en cours** : analyse complète (statistiques descriptives, classification etc.)    
+∙ Data cleaning et Exploratory data analysis - **en cours** : analyse complète (statistiques descriptives, classification etc.) sous Python 
 
-∙ Visualisation - **en cours** : visualisation graphique grâce aux librairies Python (Matplotlib, Seaborn et Plotly) + l'outil de visualisation Tableau  
+∙ Analyse de la base de données - **en cours** : requêtes SQL  
 
-∙ Modélisation - **en cours**. 
+∙ Visualisation - **en cours** : visualisation graphique grâce l'outil de visualisation Tableau + librairies Python (Matplotlib, Seaborn et Plotly) 
+
+∙ Modélisation - **en cours** : création du modèle de prédiction des certifications 
 
 ∙ Rédaction d'un rapport et soutenance devant le jury  
 
