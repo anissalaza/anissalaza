@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de différentes variables puis, de **créer un modèle permettant de prédire la certification (or, platine ou diamant) de singles et/ou albums**. Les étapes sont les suivantes :  
 
-∙ [Constitution d'un jeu de données](https://github.com/anissalaza/Prediction-certification/blob/9cb6facffef0e67f72659c7ee461291fa5660141/Preprocessing.ipynb) _(plus de 3000 données et 30 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
+∙ [Constitution d'un jeu de données](https://github.com/anissalaza/Prediction-certification/blob/9cb6facffef0e67f72659c7ee461291fa5660141/Preprocessing.ipynb) _(plus de 3000 données et 34 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
 
 ∙ Data cleaning et Exploratory data analysis - **en cours** : analyse complète (statistiques descriptives, classification etc.) sous Python 
 
