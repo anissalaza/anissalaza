@@ -20,7 +20,7 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ∙ [Constitution d'un jeu de données](https://github.com/anissalaza/Prediction-certification/blob/9cb6facffef0e67f72659c7ee461291fa5660141/Preprocessing.ipynb) _(plus de 3000 données et 34 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
 
-∙ Data cleaning et Exploratory data analysis - **en cours** : nettoyage de la base de données, analyse des données sous Python (statistiques descriptives, régressions linéaires et logistiques) + tests statistiques (Pearson, Khi-2, V-Cramer, Kolmogorov-Smirnov, Breusch-Pagan, ANOVA, Kruskal-Wallis et Eta-Squared)
+∙ Data cleaning et Exploratory data analysis - **en cours** : nettoyage de la base de données, analyse des données sous Python (statistiques descriptives, régressions linéaires et logistiques) + tests statistiques (Pearson, Khi-2, V-Cramer, Coefficient de Phi, Kolmogorov-Smirnov, Breusch-Pagan, ANOVA, Kruskal-Wallis et Eta-Squared)
 
 ∙ Analyse de la base de données - **en cours** : requêtes SQL  
 
