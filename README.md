@@ -26,7 +26,7 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ∙ Visualisation - **en cours** : visualisation graphique grâce l'outil de visualisation Tableau + librairies Python (Matplotlib, Seaborn et Plotly) 
 
-∙ Modélisation - **en cours** : création du modèle de prédiction des certifications 
+∙ Modélisation - **en cours** : création du modèle de prédiction des certifications (Régression logistique, Random Forest, Linear SVC, Catboost, kNN, Decision Tree, Naive Bayes, LightGBM, XGBoost, k-means, ACP, tSNE)
 
 ∙ Rédaction d'un rapport et soutenance devant le jury - **étape finale**  
 
