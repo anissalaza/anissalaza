@@ -12,23 +12,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Projets personnels
 
-**▻ Projets en cours de réalisation dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
+**▻ Projet réalisé dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
 
-* _[Prédire la certification des singles et/ou albums](https://github.com/anissalaza/Prediction-certification.git)_ - **en cours** :
+* _[Prédire la certification des singles et/ou albums](https://github.com/anissalaza/Prediction-certification.git)_:
 
-Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de différentes variables puis, de **créer un modèle permettant de prédire la certification (or, platine ou diamant) de singles et/ou albums**. Les étapes sont les suivantes :  
+Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de différentes variables puis, de **créer un modèle permettant de prédire la certification (or, platine ou diamant) de singles et/ou albums**. Les étapes ont été les suivantes :  
 
-∙ [Constitution d'un jeu de données](https://github.com/anissalaza/Prediction-certification/blob/9cb6facffef0e67f72659c7ee461291fa5660141/Preprocessing.ipynb) _(plus de 3000 données et 34 variables)_ - **terminé**  : web scraping grâce aux librairies Python (BeautifulSoup et Requests), récupération des données (audio features) des chansons grâce à la librairie Spotipy et téléchargements de fichiers au format csv (SNEP et Spotify)  
-
-∙ Data cleaning et Exploratory data analysis - **en cours** : nettoyage de la base de données, analyse des données sous Python (statistiques descriptives, régressions linéaires et logistiques) + tests statistiques (Pearson, Khi-2, V-Cramer, Coefficient de Phi, Kolmogorov-Smirnov, Breusch-Pagan, ANOVA, Kruskal-Wallis et Eta-Squared)
-
-∙ Analyse de la base de données - **en cours** : requêtes SQL  
-
-∙ Visualisation - **en cours** : visualisation graphique grâce l'outil de visualisation Tableau + librairies Python (Matplotlib, Seaborn et Plotly) 
-
-∙ Modélisation - **en cours** : création du modèle de prédiction des certifications (Régression logistique, Random Forest, Linear SVC, Catboost, kNN, Decision Tree, Naive Bayes, LightGBM, XGBoost, k-means, ACP, tSNE)
-
-∙ Rédaction d'un rapport et soutenance devant le jury - **étape finale**  
+∙ Constitution d'un jeu de données  
+∙ Data cleaning et Exploratory data analysis  
+∙ Visualisation   
+∙ Modélisation   
+∙ Rédaction d'un rapport et soutenance devant le jury  
 
 -------------------------------------------------
 
