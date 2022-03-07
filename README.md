@@ -70,7 +70,7 @@ Il s'agit ici de **créer un modèle permettant de déterminer le revenu potenti
 
 * Projet 6 : _[Prédire la consommation en électricité](https://github.com/anissalaza/Predire-la-demande-en-electricite.git)_
 
-Il s'agit ici de **prévoir les capacités de production** d'électricité en fonction de la demande fluctuante des utilisateurs. Les compétences acquises lors de ce projet sont_ :  
+Il s'agit ici de **prévoir les capacités de production** d'électricité en fonction de la demande fluctuante des utilisateurs. Les compétences acquises lors de ce projet sont :  
 ∙ Maîtriser les méthodes de lissage et de Holt-Winters  
 ∙ Maîtriser les notions de composantes et de modèles de décomposition  
 ∙ Maîtriser les modèles ARMA  
