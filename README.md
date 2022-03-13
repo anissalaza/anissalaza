@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 -------------------------------------------------
 
-## Projets personnels
+## Projet personnel dans le cadre d'une formation
 
 **▻ Projet réalisé dans le cadre de la formation Data Analyst (OpenClassRooms) en partenariat avec ENSAE-ENSAI**
 
@@ -23,6 +23,16 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 ∙ Visualisation   
 ∙ Modélisation   
 ∙ Rédaction d'un rapport et soutenance devant le jury  
+
+## Projets personnels en lien avec le marketing : projets data-driven
+
+* _[Segmentation des clients d'un site d'e-commerce](https://github.com/anissalaza/Prediction-certification.git)_, **[EN COURS DE MODIFICATION]** :  
+
+Il s'agit ici de créer des algorithmes de scoring basés sur la **segmentation RFM**. Ces algorithmes permettront de cibler les offres, d'établir des segments basés sur la valeur des clients et de prévenir l'attrition en identifiant des segments à risque.  
+
+∙ Analyses du comportement des consommateurs  
+∙ Réalisation d'une segmentation RFM  
+∙ Création d'algorithmes de scoring  
 
 -------------------------------------------------
 
