@@ -26,7 +26,7 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 
 ## Projets personnels en lien avec le marketing : projets data-driven
 
-* _[Segmentation des clients d'un site d'e-commerce](https://github.com/anissalaza/Prediction-certification.git)_, **[EN COURS DE MODIFICATION]** :  
+* _[Segmentation des clients d'un site d'e-commerce](https://github.com/anissalaza/Segmentation-clients.git)_, **[EN COURS DE MODIFICATION]** :  
 
 Il s'agit ici de créer des algorithmes de scoring basés sur la **segmentation RFM**. Ces algorithmes permettront de cibler les offres, d'établir des segments basés sur la valeur des clients et de prévenir l'attrition en identifiant des segments à risque.  
 
