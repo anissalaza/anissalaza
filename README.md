@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anissalaza
 - 👀 data-driven marketer
 - 📫 How to reach me: www.linkedin.com/in/anissa-mansour
-- 🌱 I’m currently learning data analytics _(Python & SQL)_
+- 🌱 I graduated in data analytics _(Python & SQL)_ and digital marketing
 - 💞️ I’m looking to collaborate on data analytics and digital marketing 
 
 <!---
