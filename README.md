@@ -24,13 +24,13 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 ∙ Modélisation   
 ∙ Rédaction d'un rapport et soutenance devant le jury  
 
-## Projets personnels en lien avec le marketing : projets data-driven
+## Projets personnels en lien avec le marketing : data-driven projects
 
 * _[Segmentation des clients d'un site d'e-commerce](https://github.com/anissalaza/Segmentation-clients.git)_, **[EN COURS DE MODIFICATION]** :  
 
 Il s'agit ici de créer des algorithmes de scoring basés sur la **segmentation RFM**. Ces algorithmes permettront de cibler les offres, d'établir des segments basés sur la valeur des clients et de prévenir l'attrition en identifiant des segments à risque.  
 
-∙ Analyses du comportement des consommateurs  
+∙ Analyse du comportement des consommateurs  
 ∙ Réalisation d'une segmentation RFM  
 ∙ Création d'algorithmes de scoring  
 
