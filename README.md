@@ -24,7 +24,7 @@ Il s'agit ici de comprendre la **naissance d'un hit** grâce à l'analyse de dif
 ∙ Modélisation   
 ∙ Rédaction d'un rapport et soutenance devant le jury  
 
-## Projets personnels en lien avec le marketing : data-driven projects
+## Projets personnels en lien avec le marketing : data-driven projects - _en cours de réalisation_
 
 * _[Segmentation des clients d'un site d'e-commerce](https://github.com/anissalaza/Segmentation-clients.git)_, **[EN COURS DE MODIFICATION]** :  
 
